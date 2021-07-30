@@ -70,3 +70,17 @@ myName    Sum    _init    count    age    value1
 ```
 
 ## Từ khóa trong C
+
+Từ khóa trong C là các tên biến, tên hàm, cú pháp khai báo được ngôn ngữ định nghĩa sẵn, bạn không thể đặt tên biến hay tên hàm trong với các từ khóa này.
+
+Sau đây là danh sách một số từ khóa trong C, các bạn không nhất thiết phải học thuộc mà chúng ta sẽ nhớ nó thông qua các bài thực hành.
+
+| int | float | double | const | sizeof | if  | else | case |
+| --- | ----- | ------ | ----- | ------ | --- | ---- | ---- |
+
+| for | while | do  | break | continue | struct | void | return |
+| --- | ----- | --- | ----- | -------- | ------ | ---- | ------ |
+
+*Và rất nhiều từ khóa nữa*
+
+
